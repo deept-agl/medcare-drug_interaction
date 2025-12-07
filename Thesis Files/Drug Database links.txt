@@ -1,0 +1,7 @@
+ALL THESE MENTIONED LINKS ARE FULL OF DATA OF MEDICINES, THEIR EFFECTS, SIDE-EFFECTS :
+
+1. http://sideeffects.embl.de/download/
+2. http://stitch.embl.de/cgi/show_download_page.pl
+3. https://pubchem.ncbi.nlm.nih.gov/
+4. ftp://ftp.ncbi.nlm.nih.gov/pubchem/Compound_3D/10_conf_per_cmpd/XML/
+5. http://tatonettilab.org/resources/tatonetti-stm.html
